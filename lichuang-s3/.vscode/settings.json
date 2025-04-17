@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "esp32_s3_szp.h": "c"
+    }
+}
