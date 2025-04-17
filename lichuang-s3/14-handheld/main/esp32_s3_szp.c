@@ -983,7 +983,7 @@ void axp2101_init(void)
     // Set DC1
     axp2101_register_write_byte(AXP2101_DCDC1_CFG, 0x12);   // 3.3V
     // axp2101_register_write_byte(AXP2101_DCDC2_CFG, 0x46);   // 1.2V
-    // axp2101_register_write_byte(AXP2101_DCDC3_CFG, 0x6A);   // 3.3V
+    axp2101_register_write_byte(AXP2101_DCDC3_CFG, 0x6A);   // 3.3V
     // axp2101_register_write_byte(AXP2101_DCDC4_CFG, 0x46);   // 1.2V
     axp2101_register_write_byte(AXP2101_DCDC_CFG0, 0x01); 
     

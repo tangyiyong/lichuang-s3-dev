@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/01-boot_key/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/01-boot_key/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/01-boot_key/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/01-boot_key/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/01-boot_key/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/01-boot_key/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/01-boot_key/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/01-boot_key/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/01-boot_key/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/01-boot_key/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
