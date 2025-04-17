@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/13-human_face_detection/build/CMakeFiles/bootloader
+D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/13-human_face_detection/build/CMakeFiles/bootloader.rule
+D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/13-human_face_detection/build/CMakeFiles/bootloader-complete.rule
+D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/13-human_face_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/13-human_face_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/13-human_face_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/13-human_face_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/13-human_face_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/13-human_face_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/DESIGN/work/esp32/lichuang-s3-dev/lichuang-s3/13-human_face_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
